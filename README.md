@@ -1,3 +1,3 @@
-# Omnigraffle Heart Stencil
+# Heart Stencil
 
 Human heart anatomy Stencil for Omnigraffle software for osx
